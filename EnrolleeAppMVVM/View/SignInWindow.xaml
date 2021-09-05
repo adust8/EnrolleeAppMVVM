@@ -1,0 +1,68 @@
+﻿<Window x:Class="EnrolleeAppMVVM.View.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnrolleeAppMVVM.View"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{StaticResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        xmlns:vm ="clr-namespace:EnrolleeAppMVVM.ViewModel" 
+        xmlns:components="clr-namespace:EnrolleeAppMVVM.Services.Components"
+        Title="Вход" Height="360" Width="400"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"    
+        ResizeMode="NoResize">
+    <Window.DataContext>
+        <vm:LoginUserControlViewModel/>
+    </Window.DataContext>
+    <Grid Background="#FFFFFBFB">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <materialDesign:Card Grid.Row="1" VerticalAlignment="Center" materialDesign:ShadowAssist.ShadowDepth="Depth5" materialDesign:ShadowAssist.ShadowEdges="All" Margin="0 0 0 0" Height="280" Width="300">
+            <StackPanel x:Name="TextBlockPanel" Orientation="Vertical" Grid.Column="0">
+                <StackPanel Orientation="Horizontal" Margin="0 20 0 0" Width="240" Height="30">
+                    <materialDesign:PackIcon Kind="User" VerticalAlignment="Bottom" Height="22" Margin="0 0 0 2" Width="30"/>
+                    <TextBlock Style="{StaticResource DefaultTextBlockStyle}" TextAlignment="Left" VerticalAlignment="Bottom" Width="50" Text="Логин"/>
+                    <TextBox Text="{Binding Login,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" Width="140" VerticalAlignment="Center" Margin="25 0 0 0" FontSize="13" Style="{StaticResource CustomMaterialDesignTextBox}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0 30 0 0" Width="240" Height="30">
+                    <materialDesign:PackIcon Kind="Password" VerticalAlignment="Bottom" Height="22" Margin="0 0 0 2" Width="30"/>
+                    <TextBlock Style="{StaticResource DefaultTextBlockStyle}" TextAlignment="Left" VerticalAlignment="Bottom" Width="65" Text="Пароль"/>
+                    <components:BindablePasswordBox Style="{StaticResource CustomMaterialDesignBindablePasswordBox}" Password="{Binding Password,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="140" VerticalAlignment="Center" Margin="10 0 0 0" FontSize="13"/>
+                </StackPanel>
+
+                <TextBlock Margin="35 20 0 0">
+                    <Hyperlink> Забыли пароль?</Hyperlink>
+                </TextBlock>
+
+                <StackPanel Orientation="Horizontal" Height="30" Margin="0 10 0 0">
+                    <RadioButton Margin="30 0 0 0" IsChecked="{Binding IsEnrolleeRole}" Content="Абитуриент"/>
+                    <RadioButton Margin="30 0 0 0" IsChecked="{Binding IsAdminRole}" Content="Администратор"/>
+                </StackPanel>
+
+                <TextBlock TextAlignment="Center" Text="{Binding WrongLoginOrPasswordString,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Margin="0 10 0 0" FontSize="14" Height="25" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="{StaticResource MaterialDesignValidationErrorBrush}"/>
+                <StackPanel Orientation="Horizontal" Height="30" Margin="0 10 0 0">
+                    <Button IsDefault="True" Command="{Binding SignInCommand}" IsEnabled="{Binding CanSignIn,Mode=OneWay,UpdateSourceTrigger=PropertyChanged}" Margin="40 0 0 0" Width="100" Height="30" Content="Войти" Style="{StaticResource CustomMaterialDesignButton}"/>
+                    <Button Command="{Binding SignUpCommand}" Height="30" Width="150" Content="Регистрация" Style="{StaticResource CustomMaterialDesignButton}"/>
+                </StackPanel>
+
+
+            </StackPanel>
+            
+
+        </materialDesign:Card>
+        <TextBlock Grid.Row="0" HorizontalAlignment="Center" FontSize="18" Foreground="White" FontWeight="Bold" VerticalAlignment="Center" Height="25" Width="200" Panel.ZIndex="1" TextAlignment="Center" Text="Авторизация"/>
+        <local:TitleButtonsPanelUserControl Grid.Row="0"/>
+    </Grid>
+</Window>

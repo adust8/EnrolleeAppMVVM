@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="EnrolleeAppMVVM.View.SettingsUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EnrolleeAppMVVM.View" xmlns:vm="clr-namespace:EnrolleeAppMVVM.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="630" d:DesignWidth="630"
+             Width="810" Height="750"
+             Background="White">
+    <UserControl.DataContext>
+        <vm:SettingsVM/>
+    </UserControl.DataContext>
+    <Grid>
+
+        <StackPanel Grid.Row="0" Height="200" Width="150" Orientation="Vertical" HorizontalAlignment="Left" Margin="10 10 0 0" VerticalAlignment="Top">
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Command="{Binding ChangePasswordCommand}" Content="Сменить пароль" Height="30"/>
+            <Button Style="{StaticResource MaterialDesignFlatButton}" Command="{Binding DeleteAccountCommand}" Content="Удалить аккаунт" Margin="0 20 0 0" Height="30"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="0" Height="500" Width="350" Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="30 10 20 0">
+            <ContentControl Content="{Binding CurrentViewModel}"/>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

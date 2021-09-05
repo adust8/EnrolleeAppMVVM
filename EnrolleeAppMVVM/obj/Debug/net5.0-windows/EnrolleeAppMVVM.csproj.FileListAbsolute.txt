@@ -1,0 +1,282 @@
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.lref
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.exe
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.deps.json
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.runtimeconfig.json
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.runtimeconfig.dev.json
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.pdb
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Humanizer.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.g.resources
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.AssemblyInfoInputs.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.AssemblyInfo.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.CoreCompileInputs.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.pdb
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.genruntimeconfig.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\LoginUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\LoginUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.exe
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.deps.json
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.runtimeconfig.json
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.runtimeconfig.dev.json
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.pdb
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\CounterUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\LoginUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.cache
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.lref
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\CounterUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\LoginUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.baml
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.g.resources
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.AssemblyInfoInputs.cache
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.AssemblyInfo.cs
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.CoreCompileInputs.cache
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.CopyComplete
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.pdb
+C:\Users\SupportPK\Desktop\Projects\Enrollee\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.genruntimeconfig.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ChangePasswordUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\DeleteAccountUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ChangePasswordUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\DeleteAccountUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\TitleButtonsPanelUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\TitleButtonsPanelUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.exe
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.deps.json
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.runtimeconfig.json
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.runtimeconfig.dev.json
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\EnrolleeAppMVVM.pdb
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\CounterUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ChangePasswordUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\DeleteAccountUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\LoginUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\TitleButtonsPanelUserControl.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.cache
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.lref
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\CounterUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ChangePasswordUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\DeleteAccountUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\LoginUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\TitleButtonsPanelUserControl.baml
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.g.resources
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.AssemblyInfoInputs.cache
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.AssemblyInfo.cs
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.CoreCompileInputs.cache
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.CopyComplete
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.pdb
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.genruntimeconfig.cache
+C:\Users\SupportPK\Desktop\Projects\EnrolleeApp\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.AssemblyReference.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.AssemblyReference.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.csproj.AssemblyReference.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ChangePasswordUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\DeleteAccountUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\TitleButtonsPanelUserControl.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\App.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.cache
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM_MarkupCompile.lref
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\Services\Components\BindablePasswordBox.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ApplicationUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\ChangePasswordUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\DeleteAccountUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\EnrolleePersonalCabinet.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\MainWindow.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SettingsUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignInWindow.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\SignUpWindow.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\View\TitleButtonsPanelUserControl.baml
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\ref\EnrolleeAppMVVM.dll
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\EnrolleeAppMVVM.pdb

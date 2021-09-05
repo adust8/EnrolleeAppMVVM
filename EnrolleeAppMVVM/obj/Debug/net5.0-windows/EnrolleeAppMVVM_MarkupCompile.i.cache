@@ -1,0 +1,20 @@
+﻿EnrolleeAppMVVM
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\obj\Debug\net5.0-windows\
+EnrolleeAppMVVM
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+F:\Моё\my_projects\csharp_projects\EnrolleeAppMVVM - Copy\EnrolleeAppMVVM\App.xaml
+11704608254
+
+48-1736419232
+2161733121104
+Services\Components\BindablePasswordBox.xaml;View\ApplicationUserControl.xaml;View\ChangePasswordUserControl.xaml;View\DeleteAccountUserControl.xaml;View\EnrolleePersonalCabinet.xaml;View\MainWindow.xaml;View\SettingsUserControl.xaml;View\SignInWindow.xaml;View\SignUpUserControl.xaml;View\SignUpWindow.xaml;View\TitleButtonsPanelUserControl.xaml;
+
+False
+

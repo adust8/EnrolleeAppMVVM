@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="EnrolleeAppMVVM.View.ApplicationUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EnrolleeAppMVVM.View"
+             xmlns:vm="clr-namespace:EnrolleeAppMVVM.ViewModel"
+             mc:Ignorable="d" 
+             Background="White"
+             d:DesignHeight="750" d:DesignWidth="810"
+             Height="750" Width="810">
+    <UserControl.DataContext>
+        <vm:ApplicationVM/>
+    </UserControl.DataContext>
+    <Grid>
+        <StackPanel Orientation="Vertical" Grid.Row="1" Width="500" HorizontalAlignment="Left">
+            <TextBlock FontWeight="Medium" Text="Выберите финансирование:"  FontSize="15" Margin="20 0 0 0"/>
+
+            <ComboBox FontSize="14" ItemsSource="{Binding AllFinancings}" SelectedValue="{Binding SelectedFinancing,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="FinancingName" Width="250" Height="30" HorizontalAlignment="Left" Margin="20 20 0 0 "/>
+
+            <TextBlock FontWeight="Medium" Text="Выберите направление:"  FontSize="15" Margin="20 30 0 0"/>
+            <ComboBox FontSize="14" ItemsSource="{Binding AllSpecialities}" Style="{StaticResource MaterialDesignComboBox}" SelectedItem="{Binding SelectedSpeciality,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="250" Height="30" HorizontalAlignment="Left" Margin="20 20 0 0">
+                
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Path=SpecialityCode}"/>
+                            <TextBlock Text=" - "/>
+                            <TextBlock Text="{Binding Path=SpecialityName.Name}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+
+            <Button Margin="20 40 0 0" Width="170" Style="{StaticResource MaterialDesignFlatButton}" Command="{Binding ApplyApplicationCommand}" IsEnabled="{Binding IsApplyApplicationEnabled,UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Content="Подать заявление" Height="25"/>
+            <Button Height="25" Width="170" Style="{StaticResource MaterialDesignFlatButton}" IsEnabled="{Binding IsWithdrawEnabled}" Command="{Binding WithdrawApplicationCommand}" Content="Отозвать заявление" HorizontalAlignment="Right" Margin="0 -25 120 0"/>
+        </StackPanel>
+
+        <ContentControl>
+            
+        </ContentControl>
+    </Grid>
+</UserControl>
